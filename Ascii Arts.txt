@@ -3,3 +3,4 @@
 • cowsay
 • lolcat
 • boxes
+• screenfetch

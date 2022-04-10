@@ -2,5 +2,8 @@
 • toilet
 • cowsay
 • lolcat
-• boxes
 • screenfetch
+• neofetch
+
+Попробовать:
+• boxes

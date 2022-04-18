@@ -1,9 +1,0 @@
-• figlet
-• toilet
-• cowsay
-• lolcat
-• screenfetch
-• neofetch
-
-Попробовать:
-• boxes
